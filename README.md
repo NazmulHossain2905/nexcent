@@ -7,7 +7,7 @@
 ### Screenshot
 
 <a href="https://nazmulhossain2905.github.io/nexcent/">
-  <img src='./images/Nexcent.png' alt='Nexcent Image' width='90%'>
+  <img src='./images/Nexcent.png' alt='Nexcent Image' width='100%'>
 </a>
 
 ### Using languages

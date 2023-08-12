@@ -588,9 +588,9 @@ input::placeholder {
 }
 
 /* RESPONSIVE STYLES */
-@media screen and (max-width: 400px) {
+/* @media screen and (max-width: 400px) {
   body {
     padding-inline: 1rem;
     background-color: red;
   }
-}
+} */
